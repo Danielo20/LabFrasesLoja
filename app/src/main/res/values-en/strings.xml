@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabPhrasesLoja</string>
+    <string name="btnIniciar">Calculate</string>
+    <string name="txtFrase1">First phrase</string>
+    <string name="txtFrase2">Second phrase</string>
+    <string name="textoSi">Phrases are the same</string>
+    <string name="textoNo">Phrases arent the same</string>
+    <string name="txtFraseUno">First phrase:</string>
+    <string name="txtFraseDos">Second phrase:</string>
+    <string name="texto1">Enter 2 phrases to compare</string>
+    <string name="txtVocal1">Open vowels:</string>
+    <string name="txtVocal2">Closed vowels:</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabFrasesLoja</string>
+    <string name="btnIniciar">Calcular</string>
+    <string name="txtFrase1">Primera frase</string>
+    <string name="txtFrase2">Segunda frase</string>
+    <string name="textoSi">Las frases son iguales</string>
+    <string name="textoNo">Las frases no son iguales</string>
+    <string name="txtFraseUno">Primera frase:</string>
+    <string name="txtFraseDos">Segunda frase:</string>
+    <string name="texto1">Ingrese 2 frases para comparar</string>
+    <string name="txtVocal1">Vocales abiertas:</string>
+    <string name="txtVocal2">Vocales cerradas:</string>
+</resources>
